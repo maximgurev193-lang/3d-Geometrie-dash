@@ -1,0 +1,57 @@
+{
+  "users": {},
+  "marketplace": [
+    {
+      "id": "market_ai_neon_runner",
+      "name": "NEON CHASER EX",
+      "difficulty": "HARD",
+      "speed": 15,
+      "color": "#ec4899",
+      "bpm": 140,
+      "length": 250,
+      "starsAvailable": 5,
+      "price": 3,
+      "creator": "AI-GD-BOT",
+      "purchasesCount": 18,
+      "obstacles": [
+        { "id": "sp-1", "type": "SPIKE", "x": 30, "y": 0, "width": 1, "height": 1, "depth": 1 },
+        { "id": "blk-1", "type": "BLOCK", "x": 55, "y": 0, "width": 3, "height": 1, "depth": 1 },
+        { "id": "pad-1", "type": "PAD_YELLOW", "x": 68, "y": 0, "width": 1, "height": 0.2, "depth": 1 },
+        { "id": "sp-2", "type": "DOUBLE_SPIKE", "x": 72, "y": 0, "width": 2, "height": 1, "depth": 1 },
+        { "id": "str-1", "type": "STAR", "x": 73, "y": 3.2, "width": 1, "height": 1, "depth": 1 },
+        { "id": "port-1", "type": "PORTAL_GRAVITY_UP", "x": 105, "y": 1, "width": 1, "height": 3.5, "depth": 1 },
+        { "id": "blk-2", "type": "BLOCK", "x": 115, "y": 5, "width": 6, "height": 1, "depth": 1 },
+        { "id": "str-2", "type": "STAR", "x": 118, "y": 3.5, "width": 1, "height": 1, "depth": 1 },
+        { "id": "port-2", "type": "PORTAL_GRAVITY_DOWN", "x": 135, "y": 3, "width": 1, "height": 3.5, "depth": 1 },
+        { "id": "sp-3", "type": "TRIPLE_SPIKE", "x": 160, "y": 0, "width": 3, "height": 1, "depth": 1 }
+      ]
+    },
+    {
+      "id": "market_cyber_demon",
+      "name": "VOID MATRIX",
+      "difficulty": "DEMON",
+      "speed": 18,
+      "color": "#ef4444",
+      "bpm": 155,
+      "length": 300,
+      "starsAvailable": 10,
+      "price": 8,
+      "creator": "RhythmLord",
+      "purchasesCount": 5,
+      "obstacles": [
+        { "id": "sp-de-1", "type": "DOUBLE_SPIKE", "x": 35, "y": 0, "width": 2, "height": 1, "depth": 1 },
+        { "id": "sp-de-2", "type": "TRIPLE_SPIKE", "x": 55, "y": 0, "width": 3, "height": 1, "depth": 1 },
+        { "id": "orb-de-1", "type": "ORB_YELLOW", "x": 75, "y": 1.5, "width": 1, "height": 1, "depth": 1 },
+        { "id": "sp-de-3", "type": "SPIKE", "x": 75, "y": 0, "width": 1, "height": 1, "depth": 1 },
+        { "id": "str-de-1", "type": "STAR", "x": 75, "y": 3.2, "width": 1, "height": 1, "depth": 1 },
+        { "id": "port-de-1", "type": "PORTAL_GRAVITY_UP", "x": 110, "y": 1, "width": 1, "height": 3.5, "depth": 1 },
+        { "id": "sp-de-4", "type": "SPIKE", "x": 125, "y": 5, "width": 1, "height": 1, "depth": 1 },
+        { "id": "str-de-2", "type": "STAR", "x": 130, "y": 3.2, "width": 1, "height": 1, "depth": 1 },
+        { "id": "port-de-2", "type": "PORTAL_GRAVITY_DOWN", "x": 150, "y": 3, "width": 1, "height": 3.5, "depth": 1 },
+        { "id": "sp-de-5", "type": "TRIPLE_SPIKE", "x": 180, "y": 0, "width": 3, "height": 1, "depth": 1 },
+        { "id": "sp-de-6", "type": "DOUBLE_SPIKE", "x": 205, "y": 0, "width": 2, "height": 1, "depth": 1 },
+        { "id": "str-de-3", "type": "STAR", "x": 206, "y": 2.2, "width": 1, "height": 1, "depth": 1 }
+      ]
+    }
+  ]
+}

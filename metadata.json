@@ -1,0 +1,6 @@
+{
+  "name": "Geometry Dash 3D",
+  "description": "A fast-paced, addictive 3D geometric rhythm runner game inspired by Geometry Dash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
